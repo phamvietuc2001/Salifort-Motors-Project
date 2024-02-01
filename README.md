@@ -1,6 +1,5 @@
 # Salifort-Motors-Project
 Scenario
-Review the scenario below. Then complete the step-by-step instructions.
 
 You are a data professional working for Salifort Motors. 
 
