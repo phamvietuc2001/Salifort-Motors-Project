@@ -1,5 +1,12 @@
 # Salifort-Motors-Project
-Scenario
+
+### This is the final capstone project at the end of my Advanced Data Analytics program after I've completed both the `Automatidata` and `Waze` projects. The same structure applied in this project which included the **PACE strategy document**, the **Python Jupyter Notebook** for coding, and the **one-page format** executive summary. Rather than break down each phase the same as the last two projects, this capstone project combines all of the phases into one. 
+
+### **As a refresher:**
+* PACE document stands for **Plan-Analyze-Construct-Execute**, which is to outline the needed steps to take to complete the project. 
+* The executive summary is a **one-page format** report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take. 
+
+### Here is the scenario for this capstone project: 
 
 You are a data professional working for Salifort Motors. 
 
@@ -14,5 +21,3 @@ Next, the leadership team asks you to analyze the survey data and come up with i
 As a specialist in data analysis, the leadership team leaves it up to you to choose an approach for building the most effective model to predict employee departure. For example, you could build and evaluate a statistical model such as logistic regression. Or, you could build and evaluate machine learning models such as decision trees, random forests, and XGBoost. Or, you could choose to deploy both statistical and machine learning models. 
 
 For any approach, you’ll need to analyze the key factors driving employee turnover, build an effective model, and share recommendations for the next steps with the leadership team. 
-
-#### In this project, besides the notebook for Python codes, it also included the **PACE strategy document** and **executive summary**. PACE document stands for Plan-Analyze-Construct-Execute, which is to outline the needed steps to take to complete the project. The executive summary is a one-page format report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take. 
