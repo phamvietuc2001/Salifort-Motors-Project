@@ -1,12 +1,12 @@
 # Salifort-Motors-Project
 
-##### This is the final capstone project at the end of my Advanced Data Analytics program after I've completed both the `Automatidata` and `Waze` projects. The same structure applied in this project which included the **PACE strategy document**, the **Python Jupyter Notebook** for coding, and the **one-page format** executive summary. Rather than break down each phase the same as the last two projects, this capstone project combines all of the phases into one. 
+#### This is the final capstone project at the end of my Advanced Data Analytics program after I've completed both the `Automatidata` and `Waze` projects. The same structure applied in this project which included the **PACE strategy document**, the **Python Jupyter Notebook** for coding, and the **one-page format** executive summary. Rather than break down each phase the same as the last two projects, this capstone project combines all of the phases into one. 
 
-### **As a refresher:**
+#### **As a refresher:**
 * PACE document stands for **Plan-Analyze-Construct-Execute**, which is to outline the needed steps to take to complete the project. 
 * The executive summary is a **one-page format** report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take. 
 
-### Here is the scenario for this capstone project: 
+#### Here is the scenario for this capstone project: 
 
 You are a data professional working for Salifort Motors. 
 
